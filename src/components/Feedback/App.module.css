@@ -1,0 +1,22 @@
+.sectionButton{
+    margin: auto;
+    display: flex;
+    font-size: 40px;
+}
+
+.btnFeedback{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
+
+.btn{
+    background-color: aqua;
+    font-family: inherit;
+    font-weight: 500;
+}
+
+.section{
+    margin: auto;
+    text-align: center
+}
